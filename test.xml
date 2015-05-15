@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//CISCO//DTD DITA 1.2 Concept v1.0//EN" "cisco-concept.dtd">
+<concept xml:lang="en_US" id="concept_BA463597DAA9461BAC8079690C477FF6"> 
+  <title>Concept</title> 
+  <shortdesc><?xm-replace_text Short Description?>
+  </shortdesc> 
+  <conbody> 
+	 <p><?xm-replace_text Paragraph?>
+	 </p> 
+	 <ul> 
+		<li id="li_04E66CB641B14E0491B62CA2EFFE4792">
+		  <p><?xm-replace_text List Item?>
+		  </p>
+		</li> 
+	 </ul> 
+  </conbody> 
+</concept> 
